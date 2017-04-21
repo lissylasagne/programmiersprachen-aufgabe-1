@@ -1,0 +1,16 @@
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/CMakeFiles/rebuild_cache.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/CMakeFiles/edit_cache.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/edit_cache.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/aufgabe116.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/aufgabe114.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/aufgabe111.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/aufgabe110.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/aufgabe19.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/helloworld.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/aufgabe115.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/aufgabe18.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/aufgabe113.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/aufgabe13.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/tests.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/rebuild_cache.dir
+/Users/lissyscholz/documents/programmiersprachen/auf1/build/source/CMakeFiles/aufgabe112.dir
