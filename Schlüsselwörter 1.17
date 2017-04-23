@@ -1,0 +1,85 @@
+Schlüsselwörter 1.17
+
+C++
+objektorientierte Programmiersprache
+
+Quellcode
+für Menschen lesbarer, in Programmiersprache geschriebener Text eines Computerprogramms 
+
+Compiler
+Programm, das Programmiersprache für den Computer verständlich übersetzt
+
+Linker
+Programm, das Module zu einem ausführbaren Programm zusammensetzt
+
+Objektcode
+Zwischenergebnis eines Compilervorgangs eines Programmes
+
+Ausführbare Datei
+eine Datei, die als Computerprogramm ausgeführt werden kann
+
+main()
+die main-Funktion; Ausgangspunkt für die Programmausführung
+
+#include
+zum Einfügen von Dateien in das Quellprogramm
+
+Kommentar
+Text, der vom Compiler ignoriert wird; zum Erklären des Codes, etc.
+
+Header
+Textdatei, die zB Deklarationen enthält
+
+Programm
+Anweisungen an den Computer in Programmiersprache
+
+Ausgabe
+das, was auf dem Terminal geprintet wird
+
+std::cout
+Ausgabe
+
+std::cin
+Eingabe
+
+<<
+left shift operator, Ein- und Ausgabe Operator 
+
+>>
+right shift operator, Ein- und Ausgabe Operator 
+
+Funktion
+dient dazu, das Teile des Quellendes strukturiert sind und öfters verwendet werden können
+
+Funktionssignatur
+der Name einer Funktion und die benötigten Eingabewerte
+
+Deklaration
+Bekanntmachen des Compilers mit einer Variable/Klasse...
+
+Definition
+Zuordnen von Speicherplatz zu einer Variable/Klasse...
+
+Typ
+um welche Art von Variable es sich handelt, ob Zahl, Wahrheitswert…
+
+Typkonvertierung
+das Wechsel des Typs einer Variable
+
+Variable
+Behälter für Informationen
+
+Name
+der Name einer Funktion, Variable, Klasse usw.
+
+Wert
+die Information, die mit einer Variable gespeichert wird, zB a = 5
+
+Initialisierung
+beim Deklarieren die Variable gleich auf einen Wert setzten
+
+const
+eine Konstante, unveränderter vom Programm
+
+Gültigkeitsbereich
+der Bereich, in dem eine Variable gültig ist
